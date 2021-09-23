@@ -28,6 +28,6 @@ escopo();
         alert(1);
                                                                                 outra maneira de fazer maneira de fazer 
         console.log('não foi enviado')
-    };
+};
 }
 */
