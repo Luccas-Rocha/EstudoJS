@@ -35,5 +35,6 @@ zerar.addEventListener('click', function(event){
     segundos=0;
 });
 
+
 // site usando esse script = https://auladewebdesign.000webhostapp.com/modeloHTML&CSS/indice.html
 
