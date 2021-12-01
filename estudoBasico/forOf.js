@@ -1,6 +1,6 @@
 
 //            0123456789
-const nome = ['nizro', 'my', 'beloved'];
+const nome = ['somebody', 'my', 'beloved'];
 
 // for(let i = 0; i <nome.length; i++){   // for classico - geralmente com iteráveis (array ou strings)
 //     console.log(nome[i]);
@@ -19,7 +19,7 @@ const nome = ['nizro', 'my', 'beloved'];
 // });
 
 const pessoa ={
-    nome: 'Nizru',
+    nome: 'somebody',
     sobrenome:'beloved'
 };
 

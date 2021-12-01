@@ -5,8 +5,8 @@ for(let i in frutas){   // for in -> lê os indices do array ou as chaves do obj
 }
 
 const pessoa = {
-    nome: 'Nizru',
-    sobrenome:'the oliveira',
+    nome: 'somebody',
+    sobrenome:'my beloved',
     idade:69
 };
 
